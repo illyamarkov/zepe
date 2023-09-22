@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="255" height="255" viewBox="0 0 255 255" xml:space="preserve">
+<desc>Created with Fabric.js 5.3.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 150.005 62.035)" id="TeSoKpJHX9IyHSOS81UmF"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-150.005, -62.035)" d="M 128.01 84.07 L 128.01 40.5 Q 128.01 40 128.51 40 L 171.5 40 C 171.7761423749154 40 172 40.223857625084605 172 40.5 L 172 83.49 Q 172 84 171.49 84 L 128.01 84.07 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 106.0642895548 149.9326892571)" id="3w5pF5EkSd3VLlcjAivNo"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-106.0642895548, -149.9326892571)" d="M 128.01 84.07 L 128 128.01 C 118.83 127.96 105.55 126.87 98.25 129.57 C 85.89 134.13 80.52 149 86.76 160.46 C 97.91 180.93 128.01 172.06 128.02 149 Q 128.03 138.5 128 128.01 L 171.43 128 C 171.73375661240695 128 171.98 128.24624338759307 171.98 128.55 Q 172.04 138.4 171.99 148.49 C 171.76 206.19 105.24 238.1 61.59 198.64 C 23.94 164.6 38.02 102.63 86.27 87.14 C 98.82 83.11 114.52 83.56 128.01 84.07 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 194 194)" id="TKaU4SlWOu60jyDiAyUrG"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-21.84, -21.84)" d="M 0 21.84 C 0 9.7781 9.7781 0 21.84 0 C 33.9019 0 43.68 9.7781 43.68 21.84 C 43.68 33.9019 33.9019 43.68 21.84 43.68 C 9.7781 43.68 0 33.9019 0 21.84 z" stroke-linecap="round" />
+</g>
+</svg>
