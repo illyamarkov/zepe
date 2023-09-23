@@ -38,9 +38,20 @@ h1 {
   filter: blur(8px);
 }
 
+h2 {
+  font-size: 15px;
+  color: rgb(255, 251, 0);
+  font-family: myFirstFont;
+  text-align: center;
+}
+
 .highlight {
   color: yellow;
   animation: shake 2s infinite;
+}
+
+#purchase_text {
+  margin-right: 10px;
 }
 
 @keyframes shake {
